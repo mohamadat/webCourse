@@ -1,3 +1,4 @@
 <?php
-session_start();
-// include 'classes/DB'
+require_once 'core/init.php';
+
+// include config
