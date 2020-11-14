@@ -19,5 +19,5 @@ $GLOBALS['config'] = array(
 
 
 
-echo $GLOBALS['config']['mysql']['db'];
+// echo $GLOBALS['config']['mysql']['db'];
 // get('config/mysql/db')
